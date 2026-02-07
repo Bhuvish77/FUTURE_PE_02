@@ -1,0 +1,65 @@
+Act as an expert SEO strategist, content marketer, and conversion-focused copywriter.
+Now,
+Your task is to generate a complete SEO Blog Pack for a business website.
+I've provide You with the All necessary details needed for the SEO Blog Generation.
+
+->>Business Info:
+- Business Type:  Web Designing Agency 
+- Service Focus:  SEO services 
+- Target Location : New York
+- Target Audience:  small businesses
+- Business Goal: Lead Generation
+
+->>Objectives:
+1) Create SEO-optimized content
+2) Map search intent : commercial 
+3) Build a content cluster (pillar + supporting blogs)
+4) Ensure content is business-focused and conversion-friendly
+5) Optimize for readability and ranking potential
+
+->>Deliverables:
+
+A) SEO Content Strategy Overview  :-
+- Primary keyword  
+- Secondary keywords  
+- Long-tail keywords  
+- Search intent mapping  
+- Buyer journey stage [mainly Include these Aspects](awareness / consideration / decision)
+
+B) Content Cluster Structure  :-
+- Pillar page topic  
+- 8–12 supporting blog topics  
+- Internal linking structure (hub-and-spoke model)  
+- Suggested anchor texts  
+
+C) SEO Blog Outline (for 1 main blog) :-  
+- SEO Title (60 characters max)  
+- Meta Description (155–160 characters)  
+- URL slug  
+- H1  
+- H2 & H3 structure  
+- FAQ schema questions  
+
+D) Long-Form SEO Blog Post  :-
+- 1500–2500 words  
+- Optimized for search intent  
+- Business-focused  
+- Includes CTA sections  
+- Uses natural keyword placement  
+- Includes bullet points, lists, and scannable sections  
+
+E) Local SEO Version (if location is provided) :- 
+- Local keyword variation  
+- Localized headings  
+- Local CTA  
+- Google Business Profile content snippet  
+
+Tone:
+- Professional
+- Trust-building
+- Clear
+- Simple language
+- Business-friendly
+- Helpful, not robotic
+
+Output in clean structured sections with headings.

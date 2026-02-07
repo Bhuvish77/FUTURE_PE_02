@@ -1,0 +1,6 @@
+Create a content cluster model:
+- 1 pillar page topic
+- 10 supporting blogs
+- Funnel stage for each (TOFU/MOFU/BOFU)
+- Internal linking structure
+- Anchor text suggestions

@@ -1,0 +1,10 @@
+Act as an SEO keyword strategist.
+Generate:
+- Primary keyword
+- Secondary keywords
+- Long-tail keywords
+- Commercial keywords
+- Informational keywords
+- Local SEO keywords
+- Search intent mapping
+for: [business + service + location]

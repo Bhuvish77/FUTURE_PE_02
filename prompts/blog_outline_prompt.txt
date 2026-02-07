@@ -1,0 +1,7 @@
+Create an SEO blog outline with:
+- Title
+- Meta description
+- URL
+- H1–H3 structure
+- FAQ schema
+- CTA placements
